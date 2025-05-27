@@ -1,0 +1,4 @@
+# API Keys
+api_keys:
+  shodan: "your_shodan_api_key_here"
+  huggingface: "your_huggingface_token_here"
